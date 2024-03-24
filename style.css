@@ -58,6 +58,7 @@ body {
 .hero {
     height: 320px;
     background-image: url(Website\ Programming.jpg);
+    background-color: black;
     background-size: cover;
     background-position: 0 -1px;
     border-top: 5px solid blueviolet;
